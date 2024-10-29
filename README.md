@@ -1,6 +1,6 @@
 # Vertical Slice PRD3 Shadows Over Suburbia
  Vertical Slice PRD3 of SOS 
- Play: 
+ Play: https://mstrykul1336.github.io/Vertical-Slice-PRD3-Shadows-Over-Suburbia/
  Full Project (including credits): https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-
  **10/28/24:**
  **What was done:**
