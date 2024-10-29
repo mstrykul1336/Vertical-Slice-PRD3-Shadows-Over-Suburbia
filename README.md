@@ -1,7 +1,7 @@
 # Vertical Slice PRD3 Shadows Over Suburbia
  Vertical Slice PRD3 of SOS 
  Play: 
- Full Project (including credits): 
+ Full Project (including credits): https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-
  **10/28/24:**
  **What was done:**
 - added a player's role to their death newspaper 
