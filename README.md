@@ -1,5 +1,7 @@
 # Vertical Slice PRD3 Shadows Over Suburbia
  Vertical Slice PRD3 of SOS 
+ Play: 
+ Full Project (including credits): 
  **10/28/24:**
  **What was done:**
 - added a player's role to their death newspaper 
